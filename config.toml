@@ -1,7 +1,7 @@
 baseurl = "https://markos.me/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "Welcome friend"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "Markos Dimitsas"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -34,9 +34,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#495c49"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Just Another JAMstack site."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -56,16 +56,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/"
+    name = "email"
+    url = "mailto:markdimitsas@gmail.com"
 
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
+    name = "twitter"
+    url = "https://twitter.com/markdimitsas"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/markdimi"
 
 [menu]
 
