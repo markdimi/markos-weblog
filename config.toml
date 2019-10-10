@@ -37,7 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   themeColor = "#495c49"
 
   homeSubtitle = "to my part of the web."
-  footerCopyright = ' &#183; Just Another <a href="https://jamstack.org/" target="_blank" rel="noopener">JAMstack</a> site.'
+  footerCopyright = ' &#183; Just another <a href="https://jamstack.org/" target="_blank" rel="noopener">JAMstack</a> site'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -70,3 +70,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "email"
     url = "mailto:markdimitsas@gmail.com"
+
+
+[menu]
+
+  #[[menu.main]]
+    #name = "Posts"
+    #url = "posts/"
+    #weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-this/"
+    weight = 20
