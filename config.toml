@@ -36,8 +36,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#495c49"
 
-  homeSubtitle = "Just Another JAMstack site."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  homeSubtitle = "to my part of the web."
+  footerCopyright = ' &#183; Just Another <a href="https://jamstack.org/" target="_blank" rel="noopener">JAMstack</a> site.'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -51,7 +51,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
   
   # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  customCSS = ["css/foo.css", "scss/bar.scss"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
