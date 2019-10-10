@@ -1,7 +1,7 @@
 ---
 title: "Hello there"
 date: 2019-10-10T13:35:14+03:00
-draft: true
+draft: false
 ---
 
 I am Mark, a Web Developer with an interest in Machine Learning and Data Science, currently located in the northern part of Greece.
