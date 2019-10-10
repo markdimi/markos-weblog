@@ -1,2 +1,2 @@
-# markos-weblog
-My personal weblog build using hugo and hosted on Netlify
+# Just another JAMstack site.
+My personal weblog build with Hugo and Netlify
