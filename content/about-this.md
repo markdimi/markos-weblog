@@ -20,5 +20,3 @@ My main tech tools at the moment are:
 ```
 
 Welcome to my website then. Hopefully I won't leave it empty and occasionally add stuff such as thoughts, ideas and various experiment results. Hope to see you again, soon!
-
-For inquiries: markdimitsas /at/ gmail \dot\ com 
