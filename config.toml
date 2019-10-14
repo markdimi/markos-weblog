@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#495c49"
 
-  homeSubtitle = "to my part of the web."
+  homeSubtitle = "to my log of the web."
   footerCopyright = ' &#183; Just another <a href="https://jamstack.org/" target="_blank" rel="noopener">JAMstack</a> site'
   # bgImg = ""  # Homepage background-image URL
 
@@ -69,7 +69,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   
   [[params.social]]
     name = "email"
-    url = "mailto:markdimitsas@gmail.com"
+    url = "mailto:markdimitsas@gmail.com?subject=Hey there Markos!"
 
 
 [menu]

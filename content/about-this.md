@@ -1,5 +1,5 @@
 ---
-title: "Hello there"
+title: "So.."
 date: 2019-10-10T13:35:14+03:00
 draft: false
 ---
@@ -19,4 +19,4 @@ My main tech tools at the moment are:
 ##
 ```
 
-Welcome to my website then. Hopefully I won't leave it empty and occasionally add stuff such as thoughts, ideas and various experiment results. Hope to see you again, soon!
+I'd like to thank you for being here. Hopefully I won't leave this blog empty and occasionally add stuff such as thoughts, ideas and various experiment results. Hope to see you again, soon!
